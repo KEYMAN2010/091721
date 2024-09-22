@@ -66,7 +66,7 @@ local function detectExploit()
 
     return "None"
 end
-local whitelistScriptURL = "https://pastebin.com/raw/TG0ri1rP" -- Replace this with the URL of your full whitelist script on Pastebin/Github
+local whitelistScriptURL = "" -- Replace this with the URL of your full whitelist script on Pastebin/Github
 
 -- Fetch the full whitelist script from Pastebin
 local whitelistScript = game:HttpGetAsync(whitelistScriptURL)
