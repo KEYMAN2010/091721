@@ -1,4 +1,4 @@
--- TBO Source
+
 MO = true
 
 
@@ -6753,7 +6753,7 @@ end
 end)
 
 -- Chat Connect --
-        local MainAccount = "OodDExUIk" -- MainAccount Username
+        local MainAccount = "xpython_02" -- MainAccount Username
 
 game.Players[MainAccount].Chatted:Connect(function(msg)
         if msg:lower() == "/e bring" then
